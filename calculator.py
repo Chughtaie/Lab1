@@ -10,6 +10,10 @@ def sub(a,b):
 def hello2():
     print("hello 2 added")
 
+def hello_world():
+    print('hello world')
+
+
 def divide(a,b): 
     if a==0:
         return 0

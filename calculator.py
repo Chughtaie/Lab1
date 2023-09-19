@@ -7,6 +7,9 @@ def multiply(a,b):
 def sub(a,b):
     return a-b
 
+def hello_world():
+    print('hello world')
+
 def divide(a,b): 
     if a==0:
         return 0
